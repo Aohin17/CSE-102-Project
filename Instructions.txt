@@ -1,0 +1,3 @@
+Press "Enter" to start the game. 
+Use the Left, Right or "a", "d" keys for movement.
+Press "r" to restart the game 
